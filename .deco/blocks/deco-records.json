@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://vtex-test-carcara-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "3604fb1fb49e134ecbdca9f36fd41cfcd92bf0de28ddee68c533f82b3130aae1b7c0987cfc32ab67160c6af96cf3238ea1cb609e28f736728c576e62b68202de78f495a858544295926597e1d74f60ea54f53b2ac2d70a91c3ed57e6bc90945c125b8fb943c87d870712a852061dcdc6ace84cb381edabee5a8834290e0d1f1e788e8bc58ea3ee03528b64ba9bd8e6598acbc2111cb5ff2cbeac5460aeaed8a99e46b4897509bdeb3d4f11df70f7e646e5a9e840116a3affff218d4bedb411872dfb8ce6523399b50f3a9d3a4523ed760545ba2cdc71d7439b20cf6776570529"
+  }
+}
